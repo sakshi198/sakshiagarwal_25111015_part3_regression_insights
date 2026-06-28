@@ -238,3 +238,23 @@ The project includes the following screenshots:
 * multiple_regression_output.png
 * model_comparison_preview.png
 * residuals_preview.png
+
+
+Example:
+
+## Simple Regression
+
+![Simple Regression](./Screenshots/simple_regression_output.png)
+
+
+## Multiple Regression
+
+![Multiple Regression](./Screenshots/multiple_regression_output.png)
+
+## Model Comparison Preview
+
+![Model Comparison Preview](./Screenshots/model_comparison_preview.png)
+
+## Residual Preview 
+
+![Residual Preview](./Screenshots/residuals_preview.png)
